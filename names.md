@@ -1,1 +1,2 @@
-1.Asad Mohamed Abdi
+1. Asad Mohamed Abdi
+2. Fakhrudin Cabdiqaadir
